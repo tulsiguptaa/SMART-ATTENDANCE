@@ -10,11 +10,25 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@chakra-ui/icons": "^2.2.4",
+    "@chakra-ui/react": "^3.26.0",
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.1",
+    "@zxing/browser": "^0.1.5",
     "axios": "^1.12.1",
+    "framer-motion": "^12.23.12",
+    "jimp": "^1.6.0",
+    "jsqr": "^1.4.0",
+    "lucide-react": "^0.544.0",
+    "qrcode": "^1.5.3",
+    "qrcode-reader": "^1.0.4",
+    "qrcode.react": "^4.2.0",
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
-    "react-router-dom": "^7.9.0",
-    "react-webcam": "^7.2.0"
+    "react-icons": "^5.5.0",
+    "react-router-dom": "^7.9.1",
+    "react-webcam": "^7.2.0",
+    "recharts": "^3.2.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.33.0",
